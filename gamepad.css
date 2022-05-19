@@ -1,0 +1,38 @@
+.controller.fight-stick {
+    
+}
+
+.fight-stick .a {
+}
+
+.fight-stick .x {
+}
+
+.fight-stick .y {
+}
+
+.fight-stick .bumper.right {
+}
+
+.fight-stick .button.pressed、.bumper.right.pressed {
+}
+
+.fight-stick .arrows {
+	display:none;
+}
+
+.fight-stick .quadrant {
+		display:none;
+}
+.fight-stick .b {
+		display:none;
+}
+.fight-stick .bumper.left {
+		display:none;
+}
+.fight-stick .trigger-button.left {
+		display:none;
+}
+.fight-stick .trigger-button.right {
+		display:none;
+}
