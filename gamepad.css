@@ -2,27 +2,6 @@
 	background: url(https://i.imgur.com/cb9TsWq.png) center no-repeat;
 	background-position: 247px 55px;
 }
-/*
-.fight-stick .a{
-	background: url(https://i.imgur.com/qVMq7bk.png);
-}
-
-.fight-stick .x{
-	background: url(https://i.imgur.com/LUXEjge.png);
-}
-
-.fight-stick .y{
-	background: url(https://i.imgur.com/XMeMdtN.png);
-}
-
-.fight-stick .bumper.right{
-	background: url(https://i.imgur.com/wGYRkGi.png);
-}
-
-.fight-stick .button.pressed,.bumper.right.pressed{
-	background: url(https://i.imgur.com/mJsiEe4.png);
-}
-*/
 
 .fight-stick .arrows {
 	display: none;
