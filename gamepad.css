@@ -1,29 +1,51 @@
 .controller.fight-stick {
-	background: url(https://i.imgur.com/cb9TsWq.png) center no-repeat;
+	background: url(https://i.imgur.com/aGyiyRa.png) center no-repeat;
 	background-position: 247px 55px;
 }
+
+.fight-stick .a{
+	background: url(https://i.imgur.com/cWtpvsa.png);
+}
+
+.fight-stick .x{
+	background: url(https://i.imgur.com/q4xGbFQ.png);
+}
+
+.fight-stick .y{
+	background: url(https://i.imgur.com/q4xGbFQ.png);
+}
+
+.fight-stick .bumper.right{
+	background: url(https://i.imgur.com/zKyqH4z.png);
+}
+
+/*
+.fight-stick .button.pressed, .bumper.right.pressed{
+	background: url(https://i.imgur.com/mJsiEe4.png);
+}
+*/
 
 .fight-stick .arrows {
 	display: none;
 }
 
-.fight-stick .quadrant{
+.fight-stick .quadrant {
 	display: none;
 }
 
-.fight-stick .b{
+.fight-stick .b {
 	display: none;
 }
 
-.fight-stick .bumper.left{
+.fight-stick .bumper.left {
 	display: none;
 }
 
-.fight-stick .trigger-button.left{
+.fight-stick .trigger-button.left {
 	display: none;
 }
 
-.fight-stick .trigger-button.right{
+.fight-stick .trigger-button.right {
 	display: none;
 }
 
