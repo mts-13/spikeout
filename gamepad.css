@@ -19,11 +19,15 @@
 	background: url(https://i.imgur.com/zKyqH4z.png);
 }
 
-/*
-.fight-stick .button.pressed, .bumper.right.pressed{
-	background: url(https://i.imgur.com/mJsiEe4.png);
+.fight-stick .bumper.pressed {
+	transform: translateY(5px);
+	-webkit-filter: invert(45%);
 }
-*/
+
+.fight-stick .button.pressed {
+	transform: translateY(5px);
+	-webkit-filter: invert(45%);
+}
 
 .fight-stick .arrows {
 	display: none;
