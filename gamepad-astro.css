@@ -19,22 +19,29 @@
 	background: url(https://mts-13.github.io/spikeout/button-astro.png);
 }
  */
- .fight-stick .bumper {
-	background:initial;
+
+ /* スティックの色 */
+.fight-stick .fstick {
+	left: 220px;   /* 少し調整 */
+	background: url(https://mts-13.github.io/spikeout/stick-astro.svgz);
+}
+
+.fight-stick .bumper {
+	background: initial;
 }
 
 .fight-stick .bumper.pressed {
 	background: white;
-	-webkit-filter:initial;
+	-webkit-filter: initial;
 }
 
 .fight-stick .button {
-	background:initial;
+	background: initial;
 }
 
 .fight-stick .button.pressed {
 	background: white;
-	-webkit-filter:initial;
+	-webkit-filter: initial;
 }
 
 .fight-stick .arrows {
