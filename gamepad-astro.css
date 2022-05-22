@@ -1,0 +1,55 @@
+.controller.fight-stick {
+	background: url(https://i.imgur.com/aGyiyRa.png) center no-repeat;
+	background-position: 247px 55px;
+}
+
+.fight-stick .a {
+	background: url(https://i.imgur.com/button-astro.png);
+}
+
+.fight-stick .x {
+	background: url(https://i.imgur.com/button-astro.png);
+}
+
+.fight-stick .y {
+	background: url(https://i.imgur.com/button-astro.png);
+}
+
+.fight-stick .bumper.right {
+	background: url(https://i.imgur.com/button-astro.png);
+}
+
+.fight-stick .bumper.pressed {
+	transform: translateY(5px);
+	filter: invert(45%);
+}
+
+.fight-stick .button.pressed {
+	transform: translateY(5px);
+	filter: invert(45%);
+}
+
+.fight-stick .arrows {
+	display: none;
+}
+
+.fight-stick .quadrant {
+	display: none;
+}
+
+.fight-stick .b {
+	display: none;
+}
+
+.fight-stick .bumper.left {
+	display: none;
+}
+
+.fight-stick .trigger-button.left {
+	display: none;
+}
+
+.fight-stick .trigger-button.right {
+	display: none;
+}
+
