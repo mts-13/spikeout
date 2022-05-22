@@ -19,6 +19,9 @@
 	background: url(https://mts-13.github.io/spikeout/button-astro.png);
 }
  */
+ .fight-stick .bumper {
+}
+
 .fight-stick .bumper.pressed {
 	width: 123px;
 	height: 123px;
@@ -27,6 +30,9 @@
 	opacity: 1;
 	display: block;
 	position: absolute;
+}
+
+.fight-stick .button {
 }
 
 .fight-stick .button.pressed {
@@ -62,4 +68,3 @@
 .fight-stick .trigger-button.right {
 	display: none;
 }
-
