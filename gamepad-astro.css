@@ -20,9 +20,10 @@
 }
  */
 
- /* スティックの色 */
+ /* スティックの色と位置調整 */
 .fight-stick .fstick {
-	left: 220px;   /* 少し調整 */
+	top: 160px;  
+	left: 230px;
 	background: url(https://mts-13.github.io/spikeout/stick-astro.svgz);
 }
 
