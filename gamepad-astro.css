@@ -20,29 +20,21 @@
 }
  */
  .fight-stick .bumper {
+	background:initial;
 }
 
 .fight-stick .bumper.pressed {
-	width: 123px;
-	height: 123px;
 	background: white;
-	border-radius: 100%;
-	opacity: 1;
-	display: block;
-	position: absolute;
+	-webkit-filter:initial;
 }
 
 .fight-stick .button {
+	background:initial;
 }
 
 .fight-stick .button.pressed {
-	width: 123px;
-	height: 123px;
 	background: white;
-	border-radius: 100%;
-	opacity: 1;
-	display: block;
-	position: absolute;
+	-webkit-filter:initial;
 }
 
 .fight-stick .arrows {
