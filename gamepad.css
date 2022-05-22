@@ -21,12 +21,12 @@
 
 .fight-stick .bumper.pressed {
 	transform: translateY(5px);
-	-webkit-filter: invert(45%);
+	filter: invert(45%);
 }
 
 .fight-stick .button.pressed {
 	transform: translateY(5px);
-	-webkit-filter: invert(45%);
+	filter: invert(45%);
 }
 
 .fight-stick .arrows {
